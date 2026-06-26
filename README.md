@@ -1,25 +1,15 @@
---------------------------------
+<!doctype html>
+<html lang="ja">
 
-Petrichor
+  <head>
+    <meta charst="utf-8">
+    <tytle>テストに出ない順</tytle>
+  </head> 
 
-【発音】
-ペトリコール
-
-意味
-雨上がりの土の匂い
-
-例文
-I love the petrichor after rain.
-
-レア度
-★★★★★
-
-使う機会
-☆☆☆☆☆
-
-豆知識
-1964年に作られた比較的新しい単語
-
-[次の単語]
-
---------------------------------
+  <body>
+   <h1>テストに出ない順</h1>
+   <p>日常生活で使わない英単語たちを愛でなさい</p>
+   <button id="next button">defenestration</button>
+  
+  </body>
+  <html>
